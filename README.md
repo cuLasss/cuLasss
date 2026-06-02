@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
 <h3 align="center">
-  Redes • Segurança aplicada • Automação • Desenvolvimento de sistemas
+  Cibersecurity • Automation • Systems development
 </h3>
 
 <p align="center">
